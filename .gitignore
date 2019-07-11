@@ -2,6 +2,10 @@
 /Builds/
 
 
+### for Saved ###
+/Saved/
+
+
 
 ### for UE4 ###
 /UnrealProject/.vs/
